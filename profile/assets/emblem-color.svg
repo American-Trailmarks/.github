@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">American Trailmarks emblem</title>
+  <desc id="desc">An arched collectible mark with canyon cliffs, pine trees, sun and a winding trail.</desc>
+  <defs><clipPath id="arch"><path d="M64 448V214C64 112 147 32 256 32s192 80 192 182v234z"/></clipPath></defs>
+  <path d="M64 448V214C64 112 147 32 256 32s192 80 192 182v234z" fill="#F4EDE4" stroke="#173A2B" stroke-width="24" stroke-linejoin="round"/>
+  <g clip-path="url(#arch)">
+    <path d="M74 79h364v160H74z" fill="#A9D6E0"/>
+    <path d="M72 164c57-16 103-8 141 11 43-25 88-21 127-1 36-17 71-19 106-7v92H72z" fill="#F4EDE4"/>
+    <circle cx="345" cy="135" r="42" fill="#D4A24C"/>
+    <path d="M40 305L94 205l45 12 22-62 59 14 23 87 37-68 55 54 37-69 81 73v134H40z" fill="#B25A3C"/>
+    <path d="M82 291l57-72 22-64 27 87 32-73 22 89 37-70 56 55 38-70 73 65v141H82z" fill="#7B4938" opacity=".55"/>
+    <path d="M40 314c79-46 145-44 209-6 67-43 135-49 223-20v175H40z" fill="#276044"/>
+    <path d="M34 379c78-47 157-55 233-27 70-43 139-46 219-9v124H34z" fill="#173A2B"/>
+    <path d="M257 474c4-54 78-86 68-137-7-37-60-33-40-74 16-34 67-33 84-75" fill="none" stroke="#D5EEF2" stroke-width="25" stroke-linecap="round"/>
+    <path d="M249 475c10-57 72-85 67-136" fill="none" stroke="#F4EDE4" stroke-width="12" stroke-linecap="round"/>
+    <g fill="#0B3A2A"><path d="M105 408l32-70h-18l29-54h-17l34-70 34 70h-17l29 54h-18l32 70z" transform="translate(-18 0)"/><path d="M322 401l25-55h-14l24-43h-14l28-58 28 58h-14l24 43h-14l25 55z"/><path d="M355 420l36-80h-20l32-59h-18l38-79 38 79h-19l33 59h-20l36 80z" transform="translate(-38 0)"/></g>
+  </g>
+  <path d="M82 438V215C82 123 158 52 256 52s174 71 174 163v223z" fill="none" stroke="#F4EDE4" stroke-width="11" stroke-linejoin="round"/>
+</svg>
